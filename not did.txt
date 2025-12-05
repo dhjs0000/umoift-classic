@@ -12,7 +12,7 @@
 
 (
 添加/dialog指令，与高版本的命令一样
-.waiting)
+.over)
 
 (
 添加领地功能
@@ -138,6 +138,18 @@
 (
 把类似于KubeJS的东西做进来，但是是用java，写好的源文件\(.java\)放在versions/版本名/umoiftCustomPlugins，然后在单人游戏里添加一个按钮，是启用或关闭umoift自定义插件，只有在选择世界后会亮起，启用或关闭的umoift自定义插件对选择的世界影响，还有versions/版本名/umoiftCustomPlugins只用放.java，其他的就不用放了
 .waiting)
+把可调节重复同一个时间的或定时保存的自动保存世界数据添加到游戏内
+.waiting)
+
+(
+把拆解台做到游戏里（左边是九个格，右边也是，但是是拆解台）
+.waiting)
+
+(
+把设置umoift功能添加
+.waiting)
+
+(
 
 (
 其他等待写入中…

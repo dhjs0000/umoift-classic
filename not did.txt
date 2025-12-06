@@ -16,7 +16,7 @@
 
 (
 添加领地功能
-.waiting)
+.over)
 
 (
 将/data命令不可修改的数据用mixin变为可修改

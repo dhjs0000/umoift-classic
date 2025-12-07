@@ -6,6 +6,8 @@
 
 UMOIFT（Universal Mod of Infinite Flame Team）是一个为 Minecraft 1.20.1 开发的专业 Forge 模组，由 Infinite Flame Team 团队开发。该模组提供了丰富的功能，包括彩色灯具系统、领地管理、对话框系统等，旨在增强游戏体验。v0.0.0.5 版本新增了专业的创造模式物品栏，让玩家可以更方便地获取所有模组物品。
 
+![彩色灯具演示](images/colored_lights.png)
+
 ## 主要功能
 
 ### 🌈 彩色灯具系统

@@ -1,12 +1,12 @@
-# Universal Mod of Infinite Flame Team (UMOIFT)
+# Universal Mod of Infinite Flame Team Classic Edition(UMOIFT-Classic)
 
 [使用说明](USAGE_GUIDE.md)
     
 ## 项目简介
 
-UMOIFT（Universal Mod of Infinite Flame Team）是一个为 Minecraft 1.20.1 开发的专业 Forge 模组，由 Infinite Flame Team 团队开发。该模组提供了丰富的功能，包括彩色灯具系统、领地管理、对话框系统等，旨在增强游戏体验。v0.0.0.5 版本新增了专业的创造模式物品栏，让玩家可以更方便地获取所有模组物品。
+UMOIFT（Universal Mod of Infinite Flame Team）是一个为 Minecraft 1.20.1 开发的专业 Forge 模组，由 Infinite Flame Team 团队开发。该模组提供了丰富的功能，包括彩色灯具系统、领地管理、对话框系统等，旨在增强游戏体验。
 
-![彩色灯具演示](images/colored_lights.png)
+![彩色灯具演示](/images/colored_lights.png)
 
 ## 主要功能
 
@@ -44,11 +44,18 @@ UMOIFT（Universal Mod of Infinite Flame Team）是一个为 Minecraft 1.20.1 �
 
 ## 开发团队
 
+### 现组
+**Ethernos Studio** 成员：
+- **dhjs0000**：开发、代码编写、调试、资源管理等
+
+**原组** 成员：
+- **Hei_wan_Feng**：基本监制
+
+### 原组
 **Infinite Flame Team** 成员：
 - **DeepSeek AI**: 开发、代码编写
 - **Hei_wan_Feng**: 开发、代码编写、调试、资源管理、其他
 
-**[合作]Ethernos Studio**: 协作开发、技术支持
 
 ## 最新更新 (v0.0.0.5)
 - ✨ 新增专业创造模式物品栏，包含所有16种彩色灯具
@@ -99,13 +106,20 @@ cd umoift
 
 ## 联系方式
 
-如有问题或建议，可以发送邮件至：Hei_wan_Feng@outlook.com
+如有问题或建议，可以发送邮件至：studio@ethernos.cn
 （请注意，邮件可能不会及时回复，但会被看到）
 
 ## 许可证
 
-本项目采用 **All Rights Reserved** 许可证，保留所有权利。
+本项目采用 **BSD 3-Clause** 许可证，允许自由使用、修改和分发。
 
 ---
+<div align="center">
 
-**Infinite Flame Team** - 为 Minecraft 创造无限可能
+##### **Infinite Flame Team** - 为 Minecraft 创造无限可能
+
+#### **Ethernos Studio** - 在代码的宇宙中，我们是点燃星系的火花
+>⚡ 创新 · 🤝 协作 · 🏆 卓越 ⚡
+
+[Ethernos Studio Github](github.com/Ethernos-Studio)
+</div>

@@ -1,17 +1,19 @@
 # Universal Mod of Infinite Flame Team - Classic Edition (UMOIFT-Classic)
 
+*注：该项目非UMOIFT官方所有，UMOIFT官方请认准[Hei-wan-Feng](https://github.com/Hei-wan-Feng)*
+
 [📖 使用指南](USAGE_GUIDE.md)
 
 ## 项目概述
 
-UMOIFT（Universal Mod of Infinite Flame Team）是一款专为 Minecraft 1.20.1 开发的专业级 Forge 模组，由 Infinite Flame Team 精心打造。本模组集成了先进的彩色照明系统、完善的领地管理机制以及灵活的对话框交互系统，致力于为玩家提供更加丰富的游戏体验。
+UMOIFT-Classic（Universal Mod of Infinite Flame Team - Classic Edition）是一款专为 Minecraft 1.20.1 开发的专业级 Forge 模组，由 Infinite Flame Team (现Ethernos Studio) 精心打造。本模组集成了先进的彩色照明系统、完善的领地管理机制以及灵活的对话框交互系统，致力于为玩家提供更加丰富的游戏体验。
 
-![彩色灯具系统演示](/images/colored_lights.png)
+![彩色灯具系统演示](/images/UMOIFT.png)
 
 ## 核心功能特性
 
 ### 🌈 彩色照明系统
-- **全色谱支持**：提供16种标准颜色灯具（白色、橙色、品红色、淡蓝色、黄色、黄绿色、粉色、灰色、淡灰色、青色、紫色、蓝色、棕色、绿色、红色、黑色）
+- **全色支持**：提供16种标准颜色灯具（白色、橙色、品红色、淡蓝色、黄色、黄绿色、粉色、灰色、淡灰色、青色、紫色、蓝色、棕色、绿色、红色、黑色）
 - **动态亮度调节**：智能照明控制，开启状态亮度15级，关闭状态0级
 
 ### 🏰 领地管理系统
@@ -47,14 +49,28 @@ UMOIFT（Universal Mod of Infinite Flame Team）是一款专为 Minecraft 1.20.1
 ## 开发团队
 
 ### 核心开发团队 - Ethernos Studio
-- **dhjs0000**：首席开发工程师、系统架构设计、性能优化、资源管理
+- **dhjs0000**：开发工程师、系统架构设计、性能优化、资源管理
 
 #### 原始团队贡献者
 - **Hei_wan_Feng**：基本项目监制
 
-### 历史贡献 - Infinite Flame Team
+### 原始开发团队 - Infinite Flame Team
 - **DeepSeek AI**：核心算法开发、代码实现
 - **Hei_wan_Feng**：功能开发、调试优化、资源管理
+
+## 关于原开发团队
+
+本项目最初由 **Infinite Flame Team** 发起并开发，原仓库地址为 `Hei-wan-Feng/umoift`。由于项目发展需要，原仓库已于 **2025年12月8日** 被 Archive（归档）处理。
+
+为确保项目的持续发展和社区支持，现由 **Ethernos Studio** 正式接管后续开发工作，并作为**非官方版本**继续维护和更新。我们承诺在保留原项目核心精神和技术架构的基础上，持续优化性能、修复问题并添加新功能，为社区玩家提供更稳定、更丰富的游戏体验。
+
+继承与创新并重，Ethernos Studio 将延续 Infinite Flame Team 的初心，为 Minecraft 模组开发贡献持续的动力。
+
+## 兼容性
+
+### 不兼容
+
+ - [已知且确认] 与官方版UMOIFT不兼容
 
 ## 快速开始
 
